@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 
 
-<!-- github活动记录 -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Larry-zx)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=欢迎访问我的主页,期待你的Star)](https://git.io/typing-svg)
