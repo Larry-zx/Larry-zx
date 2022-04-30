@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=😁欢迎访问我的主页,期待你的Star🌟&color=orange)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=欢迎访问我的主页😁🌟&color=black)](https://git.io/typing-svg)
 [![Larry-zx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larry-zx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larry-zx)](https://github.com/anuraghazra/github-readme-stats) -->
