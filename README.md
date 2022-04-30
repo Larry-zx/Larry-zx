@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Larry-zx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larry-zx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larry-zx)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Metrics](https://metrics.lecoq.io/Larry-zx?template=classic&config.timezone=Asia%2FShanghai)
