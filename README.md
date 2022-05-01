@@ -17,7 +17,7 @@
   <a href="https://youtube.com/channel/UCzDXYobI-mUP5WgvA37er6A"><img width="32px" alt="Youtube" title="Youtube" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon_48x48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   twitter -->
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon_48x48.png"/></a>
+  <a href="https://mobile.twitter.com/Larry37722397"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   kaggle -->
   <a href="https://www.kaggle.com/larryzxai" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://www.kaggle.com/static/images/site-logo.svg"/></a>
