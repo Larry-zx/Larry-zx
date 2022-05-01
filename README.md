@@ -1,26 +1,30 @@
+<h3 align="center">
+  Welcome to Xin Zhong's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="readme-typing-svg.herokuapp.com?size=24&color=FF4679&background=AAFF5000&width=500&height=40&lines=Hello%2C+nice+to+meet+here%F0%9F%98%81;Welcome+your+visit+%F0%9F%91%BE;Hope+to+get+your+Stars+%F0%9F%8C%9F"></a>
+</p>
 
-<!--
-**Larry-zx/Larry-zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align=center >
-# Welcome to Larry's Github 👋 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF4679&background=AAFF5000&width=500&height=40&lines=Hello%2C+nice+to+meet+here%F0%9F%98%81;Welcome+your+visit+%F0%9F%91%BE;Hope+to+get+your+Stars+%F0%9F%8C%9F)](https://git.io/typing-svg)
-</div>
   
 <p align="center">
   <a href="https://github.com/Larry-zx" target="_blank" rel="noopener noreferrer">
