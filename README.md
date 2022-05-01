@@ -79,7 +79,7 @@
 <p>
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-origal.svg?logo=Pytorch&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Scipy-origal.svg?logo=Scipy&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Sklearn-origal.svg?logo=Sklearn&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Scikit-learn-origal.svg?logo=Scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> 
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/request-origal.svg?logo=requestb&logoColor=white"></a>
