@@ -84,6 +84,7 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Selenium-origal.svg?logo=Selenium&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Opencv-origal.svg?logo=opencv&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Django-origal.svg?logo=Django&logoColor=white"></a>
     
     
 </p>
