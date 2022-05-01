@@ -80,6 +80,7 @@
 
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    
     <a href="#"><img alt="Pandas" src=" https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
         
 </p>
