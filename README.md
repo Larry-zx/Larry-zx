@@ -13,14 +13,19 @@
 <!-- 社交平台 -->
 <!-- Social icons section -->
 <p align="center">
+<!--  youtube  -->
   <a href="https://youtube.com/channel/UCzDXYobI-mUP5WgvA37er6A"><img width="32px" alt="Youtube" title="Youtube" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon_48x48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   twitter -->
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon_48x48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+<!--   kaggle -->
+  <a href="https://www.kaggle.com/larryzxai" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://www.kaggle.com/static/images/site-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--  dev  -->
   <a href="https://dev.to/larryzx"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--  ko-fi -->
   <a href="https://ko-fi.com/larry59868"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
