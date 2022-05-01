@@ -20,7 +20,7 @@
   <a href="https://mobile.twitter.com/Larry37722397"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/75230173/166133135-cdd925ee-eeb3-414a-b6ce-c15cbd29d2b5.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   kaggle -->
-  <a href="https://www.kaggle.com/larryzxai" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://user-images.githubusercontent.com/75230173/166133227-3ef46d99-d0c2-4199-b231-f92d503065c1.jpeg"/></a>
+  <a href="https://www.kaggle.com/larryzxai" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://user-images.githubusercontent.com/75230173/166133300-9c5d4b7e-ae3f-4ed5-81f3-a8c58a0862d0.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--  dev  -->
   <a href="https://dev.to/larryzx"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"></a>
