@@ -45,7 +45,10 @@
  </a>
 </p>
 
-[![Larry-zx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larry-zx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  <a img src ="https://github-readme-stats.vercel.app/api?username=Larry-zx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"></a>
+</div>
+
 
 ![Metrics](https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 
