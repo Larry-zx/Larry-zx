@@ -85,6 +85,7 @@
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Selenium-345423.svg?logo=Selenium&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Opencv-123456.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Django-086745.svg?logo=Django&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Scipy-origal.svg?logo=Dlib&logoColor=white"></a>
     
     
 </p>
@@ -98,6 +99,6 @@
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-102912.svg?logo=Github&logoColor=white"></a>
     <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-008897.svg?logo=Xcode&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Pycharm-dd8917.svg?logo=pycharm&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Typora-aa1121.svg?logo=Typora&logoColor=white"></a>
+   
 </p>
 
