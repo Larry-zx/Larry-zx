@@ -46,7 +46,7 @@
 </p>
 
 <div align=center>
-  <a img src ="https://github-readme-stats.vercel.app/api?username=Larry-zx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"></a>
+  <a><img src ="https://github-readme-stats.vercel.app/api?username=Larry-zx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"></a>
 </div>
 
 
