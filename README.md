@@ -58,9 +58,7 @@
 </div>
 
 
-<div align=center>
-  <a><img src="https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0"></a>
-</div>
+![Metrics](https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FShanghai)
 
 ## 🛠️ My favorite tools
 
