@@ -59,8 +59,9 @@
 
 
 <div align=center>
-  <a><img src="https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai"></a>
+  <a><img src="https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&languages=1"></a>
 </div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larry-zx)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=&color=)](https://git.io/typing-svg) -->
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming and markup languages
