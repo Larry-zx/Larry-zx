@@ -59,7 +59,7 @@
 
 
 <div align=center>
-  <a><img src="https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&languages=1"></a>
+  <a><img src="https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0"></a>
 </div>
 
 ## 🛠️ My favorite tools
