@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <div align=center >Welcome to Larry's Github 👋 
+<div align=center >
+  Welcome to Larry's Github 👋 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF4679&background=AAFF5000&width=500&height=40&lines=Hello%2C+nice+to+meet+here%F0%9F%98%81;Welcome+your+visit+%F0%9F%91%BE;Hope+to+get+your+Stars+%F0%9F%8C%9F)](https://git.io/typing-svg)
