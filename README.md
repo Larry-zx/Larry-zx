@@ -17,7 +17,7 @@
   <a href="https://youtube.com/channel/UCzDXYobI-mUP5WgvA37er6A"><img width="32px" alt="Youtube" title="Youtube" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon_48x48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   twitter -->
-  <a href="https://mobile.twitter.com/Larry37722397"><img width="32px" alt="Twitter" title="Twitter" src="https://bpic.51yuansu.com/pic3/cover/02/07/51/599e5a17ca93a_610.jpg"/></a>
+  <a href="https://mobile.twitter.com/Larry37722397"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/75230173/166133135-cdd925ee-eeb3-414a-b6ce-c15cbd29d2b5.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   kaggle -->
   <a href="https://www.kaggle.com/larryzxai" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://www.kaggle.com/static/images/site-logo.svg"/></a>
