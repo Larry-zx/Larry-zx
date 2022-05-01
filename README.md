@@ -79,12 +79,12 @@
 <p>
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-013278.svg?logo=Pytorch&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Scipy-238919.svg?logo=Scipy&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Sklearn-origal.svg?logo=Scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Sklearn-675424.svg?logo=Scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Selenium-origal.svg?logo=Selenium&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Opencv-origal.svg?logo=opencv&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Django-origal.svg?logo=Django&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Selenium-345423.svg?logo=Selenium&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Opencv-123456.svg?logo=opencv&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Django-086745.svg?logo=Django&logoColor=white"></a>
     
     
 </p>
@@ -95,7 +95,7 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/github-origal.svg?logo=Github&logoColor=white"></a>
-    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Xcode-origal.svg?logo=Xcode&logoColor=white"></a>
+    <a href="#"><img alt="Github" src="https://img.shields.io/badge/github-102912.svg?logo=Github&logoColor=white"></a>
+    <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-008897.svg?logo=Xcode&logoColor=white"></a>
 </p>
 
