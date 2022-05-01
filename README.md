@@ -56,9 +56,12 @@
 <div align=center>
   <a><img src ="https://github-readme-stats.vercel.app/api?username=Larry-zx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"></a>
 </div>
+    
+<div align=center>
+  <a><img src ="https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FShanghai"></a>
+</div>
 
 
-![Metrics](https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FShanghai)
 
 ## 🛠️ My favorite tools
 
