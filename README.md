@@ -26,7 +26,7 @@
   <a href="https://dev.to/larryzx"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--  ko-fi -->
-  <a href="https://ko-fi.com/larry59868"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png""/></a> 
+  <a href="https://ko-fi.com/larry59868"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.zhihu.com/people/larry-19-22-31"><img width="32px" alt="zhihu" src="https://static.zhihu.com/heifetz/assets/apple-touch-icon-60.8f6c52aa.png"></a>
 </p>
@@ -73,6 +73,8 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
+    
    
 ### 🧰 Frameworks and libraries
 
