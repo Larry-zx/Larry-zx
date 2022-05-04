@@ -88,7 +88,7 @@
     <a href="#"><img alt="Opencv" src="https://img.shields.io/badge/Opencv-123456.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-086745.svg?logo=Django&logoColor=white"></a>
     <a href="#"><img alt="Dlib" src="https://img.shields.io/badge/Dlib-aa9878.svg?logo=Dlib&logoColor=white"></a>
-    
+    <a href="#"><img alt="hexo" src="https://img.shields.io/badge/Hexo-ad1728.svg?logo=Hexo&logoColor=white"></a>
 </p>
     
 ### 💻 Software and tools
