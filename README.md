@@ -34,7 +34,7 @@
 <br/>
 
   
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Larry-zx" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
  </a>
@@ -59,7 +59,7 @@
     
 <div align=center>
   <a><img src ="https://metrics.lecoq.io/Larry-zx?template=classic&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FShanghai"></a>
-</div>
+</div>-->
 
 ## 🛠️ My favorite tools
 
